@@ -12,4 +12,5 @@ snapshot: 5000
 snapshot_prefix: "models/ResNet-18/resnet-18"
 random_seed: 0
 test_initialization: false
-device_id: 0,1
+device_id: 0
+solver_mode: GPU
